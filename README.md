@@ -8,6 +8,14 @@ Binaries for generating Bunkers And Alt History villages.
         ||=||        
 ========||=||========
         =====
+
+# # is a French fortress wall
+# | is a Japanese dojo wall.
+# + Is a Dojo wall connector.
+# . Is standard floor tile.
+# x Is a woven matt tile. 
+# = Is a sldiing glass door.
+# * Pathway
 ~~~
 
 A dungeon generator for my alternate history Roguelite series. These are modeled after French Fortresses and Japanese castles. Bunker simply creates a version of the village minus the tower.
