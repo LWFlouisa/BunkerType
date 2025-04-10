@@ -9,8 +9,8 @@ Binaries for generating Bunkers And Alt History villages.
 ========||=||========
         =====
 
-# # is a French fortress wall
-# | is a Japanese dojo wall.
+# # is a French fortress / Chalet wall
+# | is a Japanese Castle / dojo wall.
 # + Is a Dojo wall connector.
 # . Is standard floor tile.
 # x Is a woven matt tile. 
