@@ -9,7 +9,7 @@ Binaries for generating Bunkers And Alt History villages.
 ========||=||========
         =====
 
-# # Ville de Poisson / Chalet wall
+# # Ville de Poisson / Chalet / Chateau wall
 # | Shiro / dojo wall.
 # + Is a Dojo wall connector.
 # . Is standard floor tile.
