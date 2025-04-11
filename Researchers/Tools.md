@@ -15,3 +15,6 @@ Measures the intersections between sections of a dream that aren't clearly defin
 
 ## Reconstructive Naive Bayes
 Gathers statistics about reconstructed datasets.
+
+## Item Classification
+This can be foudn in Shuffle, Iterate, and Sort. It shuffles and matches to an index of standard items, then applies classifications to each matched item.
