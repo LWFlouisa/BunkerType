@@ -12,3 +12,6 @@ This tool aids with classifying beasts.
 
 ## Dreamlike Intersections
 Measures the intersections between sections of a dream that aren't clearly defined.
+
+## Reconstructive Naive Bayes
+Gathers statistics about reconstructed datasets.
