@@ -26,3 +26,6 @@ This tracks how often you've previously moved in X or Y coordinate directons, su
 
 ## Lunar Calender
 I'm wanting to expand the lunar calender system to include both player and enemy incremental and decremental stats, and also to factor is grinding for player / enemy level up.
+
+## Merchants
+Refinement of marchant system. Right now the idea is to implement Shoe Merchants / Cobblers, rather than traditional armor shops.
