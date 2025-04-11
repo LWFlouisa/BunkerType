@@ -6,3 +6,6 @@ Needs programming is a reminder system for tracking how state changes are made, 
 
 ## Disconfirmative
 This uses reasoning and naive bayes to determine whether something is confirmative or disconfirmative.
+
+## Beast classification
+This tool aids with classifying beasts.
