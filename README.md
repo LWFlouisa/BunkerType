@@ -2,7 +2,9 @@
 Binaries for generating Bunkers And Alt History villages.
 
 ## Propetiary Permissive
-Here I will release the compiled binaries of my source code, which you agree to not decompile and incorporate into your own proprietary software. Permissions are granted to for open collaboration on public wiki pages under the terms of the CC-SA-NC-ND agreement. Things not permitted include repurposing the source code for promoting far-right agendas and disinformation, covering by not limited to using against left-wing content creators, such as developing derivitive works that are used to further developme this beyond the original intended function. And updates to the wiki must be under the same terms of this agreement.
+Here I will release the compiled binaries of my source code, which you agree to not decompile and incorporate into your own proprietary software. Permissions are granted to for open collaboration on public wiki pages under the terms of the CC-SA-NC-ND agreement.
+
+Things not permitted include repurposing the source code for promoting far-right agendas and disinformation, covering by not limited to using against left-wing content creators, such as developing derivitive works that are used to further developme this beyond the original intended function. And updates to the wiki must be under the same terms of this agreement.
 
 ## Specific Features
 ~~~
