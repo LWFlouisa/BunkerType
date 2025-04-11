@@ -6,6 +6,8 @@ Here I will release the compiled binaries of my source code, which you agree to 
 
 Things not permitted include repurposing the source code for promoting far-right agendas and disinformation, covering by not limited to using against left-wing content creators, such as developing derivitive works that are used to further developme this beyond the original intended function. And updates to the wiki must be under the same terms of this agreement.
 
+For commercial uses, this software is proprietary. But Wiki editing under the provisions of CC-BY-NC-ND.
+
 ## Specific Features
 ~~~
           =          
