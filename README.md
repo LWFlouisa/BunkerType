@@ -8,6 +8,9 @@ Things not permitted include repurposing the source code for promoting far-right
 
 For commercial uses, this software is proprietary. But Wiki editing under the provisions of CC-BY-NC-ND.
 
+## Research
+Research is for stuff that's being actively worked on that might be risky to implement in a standard release package. A lot of this stuff blurs the line between traditional AI and Enemy Behaviours. The challenge has been to find something that bridges the gap between deterministic and random behaviours. The goal here isn't necessarily to simulate "thought" like living systems, but rather improve the way video game AI works.
+
 ## Specific Features
 ~~~
           =          
