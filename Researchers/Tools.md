@@ -29,3 +29,6 @@ I'm wanting to expand the lunar calender system to include both player and enemy
 
 ## Merchants
 Refinement of marchant system. Right now the idea is to implement Shoe Merchants / Cobblers, rather than traditional armor shops.
+
+## Enemy Behaviours
+This extends and enhances behaviours beyond traditional Sega Genesis enemies, with the eventual goal of making smarter enemies that can run efficiently on older game consoles.
