@@ -18,3 +18,6 @@ Gathers statistics about reconstructed datasets.
 
 ## Item Classification
 This can be foudn in Shuffle, Iterate, and Sort. It shuffles and matches to an index of standard items, then applies classifications to each matched item.
+
+## Movement History
+This tracks how often you've previously moved in X or Y coordinate directons, such as the play tracking previous moves.
