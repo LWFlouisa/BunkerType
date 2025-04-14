@@ -101,10 +101,19 @@ translate = {
   "Tos Shinkumerdos"        => "The foul sink smell",    # In informal way of saying the kitchen stinks like fish.
   "Tos Basurumugouachos"    => "The bathroom paint",     # Sometimes bathroom in illegal restaurant would smell like fresh paint do to frequency of repainting walls.
   "Ta Shinkulavera"         => "The sink bath",          # Using the sink as a bath for washing vegetables that go along with seafood.
+  "Ta Rokagouache"          => "The red paint",          # A specific variety of water-mixable oil paint with a rust red pigment.
+  "Ta Basurumumanger"       => "The bathroom munch",     # An informal way of describing shitting where you eat, or jeapardize something essential. Ex. Ta Basurumumangr vous es.
+  "Ta Rokaentre"            => "The red entrance",       # An entrance that's been painted in red, warning not to tresspass for non employees.
+  "Ta Uindodorm"            => "The sleepingw window",   # An especially made window for sleeping in.
+  "Te Shinkuporte"          => "The sink door",          # The sink door. Another word for a plug for a sink.
 
   ## Duplicates
   "Te Uindosortie"        => "The window exit",        # Using the open garage door or window as a way to vent out cooking smells in the garage.
   "Ta Uindosortia"        => "The window exit",        # Using the open garage door or window as a way to vent out cooking smells in the garage.
+  "Tos Uindosortios"      => "The window exit",        # Using the open garage door or window as a way to vent out cooking smells in the garage.
+
+  ## Negative
+  "dekinai"                 => "can not",
 }
 
 #print "What would you like to translate? >> "; trans = gets.chomp
