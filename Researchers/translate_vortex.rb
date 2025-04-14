@@ -73,6 +73,38 @@ translate = {
   "Anoa Shi Ursinehomme de le noyee"              => "A deadly bear man whom drowned at sea.",
   "Anos Ea Usinehomme de la noyee"                => "An airborn bear nab whom drowned at sea,",
   "Anos Denki Homard Au Cochon de le noye"        => "An electrically charged lobster pig whom drowned at sea.",
+
+  ## Standard Portmanteau
+  "Ta Basurumusortia"       => "The bathroom exit",
+  "Tos Shinkuentros"        => "The sink entrance",
+  "Tos Aisubokkusulavos"    => "The icebox bath",
+  "Te Shadomangere"         => "The slope biting",
+  "Ta Shadoentra"           => "The slope entrance",
+  "Te Garejidorme"          => "The garage sleep",
+  "Tos Shadodormos"         => "The slope sleep",
+  "Ta Shinshitsulavera"     => "The bedroom bath",       # Antiquated, holdover from having tubs in bedrooms in the 19th century.
+  "Tos Uindomuros"          => "The window wall",
+  "Ta Daidakorodorma"       => "The first time sleep",   # The first time sleeping in a particular area.
+  "Tos Iemangeros"          => "The non eating",
+  "Tos Uindogouachos"       => "The window paint",       # Historically window paint was designed in such a way to be less permanent so it could be washed off.
+  "Te Garejimangere"        => "The dining garage",      # Historically illegal restaurant might be operated out of people's garage to evade authorities.
+  "Te Garejigouache"        => "The garage gouache",     # Gouache paint for painting garages needed to be more water proof, and more akin to water mixable oil paint.
+  "Tos Garejimerdos"        => "The garage restroom",    # By extension, there needed to be special bathrooms for guests specifically in garages away from the rest of the house.
+  "Te Basurumuentre"        => "The bathroom door",      # By extension, a Basurumuentre is another word for bathroom door.
+  "Te Shinkuentre"          => "The sink entrance",      # Context, another word for a drainpipe in a sink.
+  "Te Rokacanape"           => "The red couch",          # A type of French couch that uses Japanse red cloth over maple.
+  "Ta Aisubokkusugouacha"   => "The icebox gouache",     # Painting the outside of an ice box, or the paint used for such activities.
+  "Te Rokasortie"           => "The red exit",           # Doors are sometimes painted red, if only staff are meant past that point, or is a danger area.
+  "Ta Daidakorogouacha"     => "The first time gouache", # Eluding to the smell of fresh water mixable oil paint.
+  "Tos Ribingurumumangeros" => "The dining room",        # Frequently familial dining rooms seperate from the eating area of illegal restaurants in people's garages.
+  "Ta Daidakoromangera"     => "The first time eating",  # First time eating at an illegal restaurant.
+  "Tos Shinkumerdos"        => "The foul sink smell",    # In informal way of saying the kitchen stinks like fish.
+  "Tos Basurumugouachos"    => "The bathroom paint",     # Sometimes bathroom in illegal restaurant would smell like fresh paint do to frequency of repainting walls.
+  "Ta Shinkulavera"         => "The sink bath",          # Using the sink as a bath for washing vegetables that go along with seafood.
+
+  ## Duplicates
+  "Te Uindosortie"        => "The window exit",        # Using the open garage door or window as a way to vent out cooking smells in the garage.
+  "Ta Uindosortia"        => "The window exit",        # Using the open garage door or window as a way to vent out cooking smells in the garage.
 }
 
 #print "What would you like to translate? >> "; trans = gets.chomp
