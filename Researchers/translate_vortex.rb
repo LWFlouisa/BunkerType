@@ -114,6 +114,15 @@ translate = {
 
   ## Negative
   "dekinai"                 => "can not",
+
+  ## Special locations
+  "Te Garejimangere Ursinehomme"     => "A shack in a garage known as the Bear-Man's tabern.",
+  "Tos Garejimerdos Denkos"          => "The heavenly garage restroom",
+  "Anos Shi Rokacanape"              => "The deadly red couch",
+  "Anu Shi Rokaentre"                => "The deadly red entrance",
+  "Ta Uindodorm de le recupere"      => "The sleeping window patients recover or die in",
+  "Tos Aisubokkusulavos de la noyee" => "The ice box a corpse drowned in.",
+  "Anos Uindodormos Tenchos"         => "The earthen sleeping window",
 }
 
 #print "What would you like to translate? >> "; trans = gets.chomp
