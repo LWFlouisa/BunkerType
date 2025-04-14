@@ -124,6 +124,7 @@ translate = {
   "Tos Aisubokkusulavos de la noyee" => "The ice box a corpse drowned in.",
   "Anos Uindodormos Tenchos"         => "The earthen sleeping window",
 
+  ## Ex. Anna Banane Sekando, or Hannah Second Banana
   ## Japanese Sirnames
   "Abe"            => "Peace",
   "Ichiji Teishi"  => "Pause",
