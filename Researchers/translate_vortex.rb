@@ -123,6 +123,34 @@ translate = {
   "Ta Uindodorm de le recupere"      => "The sleeping window patients recover or die in",
   "Tos Aisubokkusulavos de la noyee" => "The ice box a corpse drowned in.",
   "Anos Uindodormos Tenchos"         => "The earthen sleeping window",
+
+  ## Japanese Sirnames
+  "Abe"            => "Peace",
+  "Ichiji Teishi"  => "Pause",
+  "Funso"          => "Conflict",
+
+  "Aikawa"         => "Mutually, Together",
+  "Banane Sekando" => "Second Banana",
+  "Warui Kotoba"   => "Bad Terms",
+
+  "Akabane"        => "Red Feather",
+  "Lotus"          => "Lotus",
+  "Buru"           => "Bleu",
+
+  "Akai"           => "Mineshaff",
+  "Rengoku"        => "Purgatory",
+  "Yoake"          => "Dawn",
+
+  ## French first names
+  "Elea"  => "Eleanor",
+  "Lya"   => "Weary",
+  "Elyna" => "Torch",
+  "Anna"  => "Saint Hannah",
+
+  "Adrien"    => "Adrien",
+  "Aime"      => "Loved",
+  "Alain"     => "Alan ( feminine )",
+  "Alexander" => "The Great",
 }
 
 #print "What would you like to translate? >> "; trans = gets.chomp
