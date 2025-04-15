@@ -1,0 +1,76 @@
+body {
+  background-color: #40254E;
+  color: #D2C0A8;
+
+  padding-left: 128px;
+  padding-right: 128px;
+  padding-top: 128px;
+  padding-top: 128px;
+}
+
+screen {
+  background-color: #654C65;
+  color: #F7E7BF;
+
+  padding-left: 128px;
+  padding-right: 128px;
+  padding-top: 128px;
+  padding-bottom: 128px;
+}
+
+container {
+  padding-left: 256px;
+  padding-right: 256px;
+  padding-top: 256px;
+  padding-top: 256px;
+}
+
+ex_date {
+  color: #FAF9F6;
+
+  display: block;
+  text-align: center;
+
+  padding-left: 512px;
+  padding-right: 512px;
+}
+
+ex_feeling {
+  color: #FAF9F6;
+
+  display: block;
+  text-align: center;
+
+  padding-left: 512px;
+  padding-right: 512px;
+}
+
+ex_relationship {
+  color: #FAF9F6;
+
+  display: block;
+  text-align: center;
+
+  padding-left: 512px;
+  padding-right: 512px;
+}
+
+in_reflection {
+  color: #F7E7BF;
+
+  display: block;
+  text-align: center;
+
+  padding-left: 512px;
+  padding-right: 512px;
+}
+
+in_adage {
+  color: #F7E7BF;
+
+  display: block;
+  text-align: center;
+
+  padding-left: 512px;
+  padding-right: 512px;
+}
