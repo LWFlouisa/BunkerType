@@ -33,10 +33,19 @@ Refinement of marchant system. Right now the idea is to implement Shoe Merchants
 ## Enemy Behaviours
 This extends and enhances behaviours beyond traditional Sega Genesis enemies, with the eventual goal of making smarter enemies that can run efficiently on older game consoles.
 
-## Translation Services
+## Reconstructive Naive Bayes ( RNB )
+Reconstructes aspects of a human face in strings, and calculates probabilities from them.
+
+[Reconstructor](https://github.com/LWFlouisa/BunkerType/tree/main/Researchers/Reconstructor)
+
+## Spatial Relations
+[Spatial Relations](https://github.com/LWFlouisa/BunkerType/blob/main/Researchers/SpatialRelations/spatialrelations.rb)
+
+# Translation Services
 These cover translation services for my fantasy language.
 
 These cover all translates creatures so far: [Translated Creatures](https://github.com/LWFlouisa/BunkerType/blob/main/Researchers/TranslatedCreatures/creaturestranslated.md)
 
+## Translation
 [Translate Vortex](https://github.com/LWFlouisa/BunkerType/blob/main/Researchers/translate_vortex.rb)
 [Le pomme rouge ne es jute](https://github.com/LWFlouisa/BunkerType/tree/main/Researchers/LePommeEsNeJete)
