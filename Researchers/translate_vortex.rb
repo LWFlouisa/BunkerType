@@ -154,11 +154,12 @@ translate = {
   "Alexander" => "The Great",
 
   ## French Dialogue
-  "le pomme rouge es ne jete."   => "The apple red is tossed out.",
-  "la orange orange es ne jete." => "The orange orange is tossed out.",
-  "la orange orange es mange."   => "The orange orange is eaten.",
-  "les banane jaune es mange."   => "The banana yellow is eaten.",
-  "le pomme rouge es mange."     => "The apple red is eaten.",
+  "le pomme rouge es ne jete."    => "The apple red is tossed out.",
+  "la orange orange es ne jete."  => "The orange orange is tossed out.",
+  "les bananes jaune es ne jete." => "The bananas yellow is tossed out.",
+  "la orange orange es mange."    => "The orange orange is eaten.",
+  "les banane jaune es mange."    => "The banana yellow is eaten.",
+  "le pomme rouge es mange."      => "The apple red is eaten.",
 }
 
 #print "What would you like to translate? >> "; trans = gets.chomp
